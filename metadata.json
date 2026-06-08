@@ -1,0 +1,6 @@
+{
+  "name": "IAH.AI",
+  "description": "Unified AI Operating System workflow workspace - Intelligence Beyond Limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
